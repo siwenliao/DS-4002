@@ -1,5 +1,5 @@
 ### Data File
-See file Hotdog Survey (Responses) - Form Responses 1.csv
+See file Hotdog Survey Responses.csv
 
 ### Data Collection Objective
 
